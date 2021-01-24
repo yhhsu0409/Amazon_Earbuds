@@ -17,7 +17,15 @@ Step 3) Crawl Available Items' Url from the brand
 
 Step 4) Crawl Each Item's Information
 * Titles, brands, prices, stars, number_ratings, review_words
-img src="https://Data Table" width="400" height="300">
+<img src="https://github.com/yhhsu0409/Amazon_Earbuds/blob/master/ReadMe_Pic/Data_Table.png" width="650" height="300">
 
 ## Analysis (PowerBI)
-PDF_Images
+<img src="https://github.com/yhhsu0409/Amazon_Earbuds/blob/master/ReadMe_Pic/Pdf_to_Jpg/Amazon_BI_PDF_page-0001.jpg" width="1000" height="600">
+<img src="https://github.com/yhhsu0409/Amazon_Earbuds/blob/master/ReadMe_Pic/Pdf_to_Jpg/Amazon_BI_PDF_page-0002.jpg" width="1000" height="600">
+<img src="https://github.com/yhhsu0409/Amazon_Earbuds/blob/master/ReadMe_Pic/Pdf_to_Jpg/Amazon_BI_PDF_page-0003.jpg" width="1000" height="600">
+<img src="https://github.com/yhhsu0409/Amazon_Earbuds/blob/master/ReadMe_Pic/Pdf_to_Jpg/Amazon_BI_PDF_page-0004.jpg" width="1000" height="600">
+<img src="https://github.com/yhhsu0409/Amazon_Earbuds/blob/master/ReadMe_Pic/Pdf_to_Jpg/Amazon_BI_PDF_page-0005.jpg" width="1000" height="600">
+<img src="https://github.com/yhhsu0409/Amazon_Earbuds/blob/master/ReadMe_Pic/Pdf_to_Jpg/Amazon_BI_PDF_page-0006.jpg" width="1000" height="600">
+<img src="https://github.com/yhhsu0409/Amazon_Earbuds/blob/master/ReadMe_Pic/Pdf_to_Jpg/Amazon_BI_PDF_page-0007.jpg" width="1000" height="600">
+<img src="https://github.com/yhhsu0409/Amazon_Earbuds/blob/master/ReadMe_Pic/Pdf_to_Jpg/Amazon_BI_PDF_page-0008.jpg" width="1000" height="600">
+<img src="https://github.com/yhhsu0409/Amazon_Earbuds/blob/master/ReadMe_Pic/Pdf_to_Jpg/Amazon_BI_PDF_page-0009.jpg" width="1000" height="600">
