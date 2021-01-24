@@ -29,3 +29,7 @@ Step 4) Crawl Each Item's Information
 <img src="https://github.com/yhhsu0409/Amazon_Earbuds/blob/master/ReadMe_Pic/Pdf_to_Jpg/Amazon_BI_PDF_page-0007.jpg" width="1000" height="600">
 <img src="https://github.com/yhhsu0409/Amazon_Earbuds/blob/master/ReadMe_Pic/Pdf_to_Jpg/Amazon_BI_PDF_page-0008.jpg" width="1000" height="600">
 <img src="https://github.com/yhhsu0409/Amazon_Earbuds/blob/master/ReadMe_Pic/Pdf_to_Jpg/Amazon_BI_PDF_page-0009.jpg" width="1000" height="600">
+
+## References
+* 洪錦魁 . (2019). Python網路爬蟲：大數據擷取、清洗、儲存與分析：王者歸來. 台灣: 深智數位出版社 
+* 數據分析那些事 . “一次讓人臉紅心跳的python數據分析.” Medium, 6 Oct. 2019, allaboutdataanalysis.medium.com/%E4%B8%80%E6%AC%A1%E8%AE%93%E4%BA%BA%E8%87%89%E7%B4%85%E5%BF%83%E8%B7%B3%E7%9A%84python%E6%95%B8%E6%93%9A%E5%88%86%E6%9E%90-ab5c2e41fea0. 
